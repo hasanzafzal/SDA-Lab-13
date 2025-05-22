@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SDA Lab 13 t1/1.0.0": {
+        "runtime": {
+          "SDA Lab 13 t1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDA Lab 13 t1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

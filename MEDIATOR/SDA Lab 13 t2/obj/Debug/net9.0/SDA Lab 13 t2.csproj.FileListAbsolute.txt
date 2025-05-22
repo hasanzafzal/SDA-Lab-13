@@ -1,0 +1,14 @@
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\bin\Debug\net9.0\SDA Lab 13 t2.exe
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\bin\Debug\net9.0\SDA Lab 13 t2.deps.json
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\bin\Debug\net9.0\SDA Lab 13 t2.runtimeconfig.json
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\bin\Debug\net9.0\SDA Lab 13 t2.dll
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\bin\Debug\net9.0\SDA Lab 13 t2.pdb
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\obj\Debug\net9.0\SDA Lab 13 t2.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\obj\Debug\net9.0\SDA Lab 13 t2.AssemblyInfoInputs.cache
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\obj\Debug\net9.0\SDA Lab 13 t2.AssemblyInfo.cs
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\obj\Debug\net9.0\SDA Lab 13 t2.csproj.CoreCompileInputs.cache
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\obj\Debug\net9.0\SDA Lab 13 t2.dll
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\obj\Debug\net9.0\refint\SDA Lab 13 t2.dll
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\obj\Debug\net9.0\SDA Lab 13 t2.pdb
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\obj\Debug\net9.0\SDA Lab 13 t2.genruntimeconfig.cache
+E:\source\repos\SDA Lab 13 t2\SDA Lab 13 t2\obj\Debug\net9.0\ref\SDA Lab 13 t2.dll
